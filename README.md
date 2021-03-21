@@ -6,3 +6,7 @@
 Those are the classes that I watched and learned on Ignite at [Rocketseat](https://rocketseat.com.br/).
 
 You can see my profile and evolution clicking on [Evandro Gibicoski](https://app.rocketseat.com.br/me/gibifyofficial).
+
+### CHAPTER I
+
+* [GitHub-Project-Case](https://github.com/gibifyofficial/Ignite-ReactJS/tree/main/01-github-explorer)
