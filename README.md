@@ -2,6 +2,7 @@
   <img src="https://github.com/gibifyofficial/Ignite-ReactJS/blob/main/01-github-explorer/public/Capa.png" />
 </div>
 <br> <br>
-Those are the classes that I watched and learned on Ignite at [Rocketseat](https://rocketseat.com.br/). <br>
+
+Those are the classes that I watched and learned on Ignite at [Rocketseat](https://rocketseat.com.br/).
 
 You can see my profile and evolution clicking on [Evandro Gibicoski](https://app.rocketseat.com.br/me/gibifyofficial).
