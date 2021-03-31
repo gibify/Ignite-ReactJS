@@ -19,6 +19,6 @@ You can see my profile and evolution clicking on [Evandro Gibicoski](https://app
 
 * [ig.news-Project](https://github.com/gibifyofficial/ig.news-ignite)
 
-This project show the repositories hosting on github as (name of repository, description of repository and link to access it). 
+
 
 
