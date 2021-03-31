@@ -12,7 +12,7 @@ You can see my profile and evolution clicking on [Evandro Gibicoski](https://app
 * [GitHub-Explorer-Project](https://github.com/gibifyofficial/Ignite-ReactJS/tree/main/01-github-explorer) <br/>
 ***_This project show the repositories hosting on github as (name of repository, description of repository and link to access it).*** 
 
-* [dt.money-Project](https://github.com/gibifyofficial/td.money-ignite)
+* [dt.money-Project](https://github.com/gibifyofficial/td.money-ignite) <br/>
 ***_This project set total amount your balance as (income, outcome, and total on your wallet, positive or negative).*** 
 
 ### CHAPTER II
