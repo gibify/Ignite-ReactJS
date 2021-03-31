@@ -3,7 +3,7 @@
 </div>
 <br> <br>
 
-Those are the classes that I watched and learned in Ignite at [Rocketseat](https://rocketseat.com.br/).
+These are the classes that I watched and learned in Ignite at [Rocketseat](https://rocketseat.com.br/).
 
 You can see my profile and evolution clicking on [Evandro Gibicoski](https://app.rocketseat.com.br/me/gibifyofficial).
 
