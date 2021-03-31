@@ -9,7 +9,9 @@ You can see my profile and evolution clicking on [Evandro Gibicoski](https://app
 
 ### CHAPTER I
 
-* [GitHub-Project-Case](https://github.com/gibifyofficial/Ignite-ReactJS/tree/main/01-github-explorer)
+* [GitHub-Explorer-Project](https://github.com/gibifyofficial/Ignite-ReactJS/tree/main/01-github-explorer)
+* [dt.money-Project](https://github.com/gibifyofficial/Ignite-ReactJS/tree/main/dtmoney-ignite)
+* [ig.news-Project](https://github.com/gibifyofficial/Ignite-ReactJS/tree/main/ig.news-ignite)
 
 This project show the repositories hosting on github as (name of repository, description of repository and link to access it). 
 
