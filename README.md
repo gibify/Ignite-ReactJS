@@ -12,7 +12,7 @@ You can see my profile and evolution clicking on [Evandro Gibicoski](https://app
 * [GitHub-Explorer-Project](https://github.com/gibifyofficial/Ignite-ReactJS/tree/main/01-github-explorer)
 * [dt.money-Project](https://github.com/gibifyofficial/td.money-ignite)
 
-### CHAPTER I
+### CHAPTER II
 
 * [ig.news-Project](https://github.com/gibifyofficial/ig.news-ignite)
 
